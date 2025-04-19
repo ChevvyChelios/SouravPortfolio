@@ -29,7 +29,7 @@ const TechStack = () => {
       <div className="w-full h-full md:px-10 px-5">
         <TitleHeader
           title="My Preferred Tech Stack"
-          sub="🤝(handshake emoji) The Skills I Bring to the Table"
+          sub="🤝 The Skills I Bring to the Table"
         />
 
         <div className="tech-grid">
